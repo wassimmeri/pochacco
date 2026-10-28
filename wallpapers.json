@@ -1,0 +1,1137 @@
+
+[
+   {
+    "id": "400",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/1.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V1.png"
+  },
+  {
+    "id": "401",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/2.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V2.png"
+  },
+   {
+    "id": "402",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/3.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V3.png"
+  },
+  {
+    "id": "403",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/4.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V4.png"
+  },
+    {
+    "id": "404",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/5.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V5.png"
+  },
+    {
+    "id": "405",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/6.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V6.png"
+  },
+    {
+    "id": "406",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/7.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V7.png"
+  },
+    {
+    "id": "407",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/8.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V8.png"
+  },
+    {
+    "id": "408",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/9.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V10.png"
+  },
+    {
+    "id": "409",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/10.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V13.png"
+  },
+    {
+    "id": "410",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/11.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V9.png"
+  },
+   {
+    "id": "411",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/12.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V12.png"
+  },
+   {
+    "id": "412",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/13.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/V11.png"
+  },
+   {
+    "id": "413",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260812/f3a47548bc0a41959d34a51c07c11c2e.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/7d89b70cddc165f0f06ae1ea4532a780.jpg"
+  },
+   {
+    "id": "414",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/4f1642634f2682c7d2bf8c117feda1b2.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/852ac39ec3ebe2e0e02de44cb554f1a6.jpg"
+  },
+   {
+    "id": "415",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/0753355a55fbadd12b994745415eed4c.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/3df71c20bc0354bf9ca2d0a3a11c9b9e.jpg"
+  },
+   {
+    "id": "416",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260812/d4d7a8e66a273e2f0797ef439126aea1.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/0da07bb90dad3adfe798e73743580da8.jpg"
+  },
+   {
+    "id": "417",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260812/183365ef16d0a6b52ad3293647cca6e8.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/3ab42485c834ce2ce2b6e4e38f0b5879.jpg"
+  },
+   {
+    "id": "418",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260508/6ad12015698ff67c9ab9912873cbbc88.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260508/5979f5c99e13028831611447f244c1ae.jpg"
+  },
+   {
+    "id": "419",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/fc9d191820628cbb91b78f5256e78c99.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/5e5efbaeaeb60fafc7de0ec35ee6e668.jpg"
+  },
+   {
+    "id": "420",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/da6127c9b82750bc48b4d5a0bf799c2e.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/1f375a35017c815b84ca9caa2c9ec919.jpg"
+  },
+    {
+    "id": "421",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/04ddf7abc6c9b51afd11336de75962e8.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/2d595633bf82ed5ad784bbc70043500c.jpg"
+  },
+    {
+    "id": "422",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/af48a21c3e9925bf9875e53518efd605.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/6298107b52b0a386e055807094b3eb56.jpg"
+  },
+    {
+    "id": "423",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/16d7aae785286b7d9c80c3fe29b51709.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/d2aba253da08ddbd55bdf2e9dc50a253.jpg"
+  },
+   {
+    "id": "424",
+    "name": "CHIIKAWA LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://r2.chiikawawallpaper.com/live/20260822/fc9d191820628cbb91b78f5256e78c99.mp4",
+    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/5e5efbaeaeb60fafc7de0ec35ee6e668.jpg"
+  },
+   {
+    "id": "601",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD1.webp"
+  },
+    {
+    "id": "602",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD2.webp"
+  },
+   {
+    "id": "603",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD3.webp"
+  },
+   {
+    "id": "604",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD4.webp"
+  },
+   {
+    "id": "605",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD5.webp"
+  },
+   {
+    "id": "606",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/BOARD6.webp"
+  },
+   {
+    "id": "607",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K1.png"
+  },
+   {
+    "id": "608",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K2.jpg"
+  },
+   {
+    "id": "609",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K3.png"
+  },
+   {
+    "id": "610",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K4.png"
+  },
+   {
+    "id": "611",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K5.png"
+  },
+   {
+    "id": "612",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K6.png"
+  },
+   {
+    "id": "613",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K7.jpg"
+  },
+   {
+    "id": "614",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K8.png"
+  },
+   {
+    "id": "615",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K9.jpg"
+  },
+   {
+    "id": "616",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K10.png"
+  },
+   {
+    "id": "617",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K11.jpg"
+  },
+   {
+    "id": "618",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K12.jpg"
+  },
+   {
+    "id": "619",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K13.png"
+  },
+   {
+    "id": "620",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K14.png"
+  },
+   {
+    "id": "621",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K15.jpg"
+  },
+   {
+    "id": "622",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K16.png"
+  },
+   {
+    "id": "623",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K17.png"
+  },
+   {
+    "id": "624",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K18.png"
+  },
+   {
+    "id": "625",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K19.png"
+  },
+   {
+    "id": "626",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K20.jpg"
+  },
+   {
+    "id": "627",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K21.png"
+  },
+   {
+    "id": "628",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K22.png"
+  },
+   {
+    "id": "629",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K23.png"
+  },
+   {
+    "id": "630",
+    "name": "HELLO KITTY KEYBOARD",
+    "isNew": true,
+    "type": "keyboard",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/K24.png"
+  },
+  {
+    "id": "1",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/1.webp"
+  },
+  {
+    "id": "2",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/3.webp"
+  },
+{
+    "id": "4",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/4.webp"
+  },
+    {
+    "id": "5",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/5.webp"
+  },
+  {
+    "id": "6",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/6.webp"
+  },
+  {
+    "id": "7",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/7.webp"
+  },
+  {
+    "id": "8",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/8.webp"
+  },
+  {
+    "id": "9",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/9.webp"
+  },
+  {
+    "id": "10",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/10.webp"
+  },
+  {
+    "id": "11",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/11.webp"
+  },
+  {
+    "id": "12",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/12.webp"
+  },
+  {
+    "id": "13",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/13.webp"
+  },
+  {
+    "id": "14",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/14.webp"
+  },
+   {
+    "id": "15",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/15.webp"
+  },
+  {
+    "id": "16",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/16.webp"
+  },
+  {
+    "id": "17",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/17.webp"
+  },
+  {
+    "id": "18",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/18.webp"
+  },
+  {
+    "id": "19",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/19.webp"
+  },
+  {
+    "id": "20",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/20.jpg"
+  },
+  {
+    "id": "21",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/21.webp"
+  },
+  {
+    "id": "22",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/22.webp"
+  },
+  {
+    "id": "23",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/23.webp"
+  },
+  {
+    "id": "24",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/24.webp"
+  },
+  {
+    "id": "25",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/25.webp"
+  },
+  {
+    "id": "26",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/26.webp"
+  },
+    {
+    "id": "27",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/27.webp"
+  },
+  {
+    "id": "28",
+    "name": "HELLO KITTY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/28.webp"
+  },
+  {
+    "id": "29",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/29.webp"
+  },
+  {
+    "id": "30",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/30.webp"
+  },
+  {
+    "id": "31",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/31.webp"
+  },
+  {
+    "id": "32",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/32.webp"
+  },
+  {
+    "id": "33",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/33.webp"
+  },
+  {
+    "id": "34",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/34.webp"
+  },
+  {
+    "id": "35",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/35.webp"
+  },
+  {
+    "id": "36",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/36.webp"
+  },
+  {
+    "id": "37",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/37.webp"
+  },
+  {
+    "id": "38",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/38.webp"
+  },
+  {
+    "id": "39",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/39.webp"
+  },
+  {
+    "id": "40",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/40.webp"
+  },
+  {
+    "id": "41",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/41.webp"
+  },
+  {
+    "id": "42",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/42.webp"
+  },
+  {
+    "id": "43",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/43.webp"
+  },
+  {
+    "id": "44",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/44.webp"
+  },
+  {
+    "id": "45",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/45.webp"
+  },
+  {
+    "id": "46",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/46.webp"
+  },
+  {
+    "id": "47",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/47.webp"
+  },
+  {
+    "id": "48",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/48.webp"
+  },
+  {
+    "id": "49",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/49.webp"
+  },
+  {
+    "id": "50",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/50.webp"
+  },
+  {
+    "id": "51",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/51.webp"
+  },
+  {
+    "id": "52",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/52.webp"
+  },
+  {
+    "id": "53",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/53.webp"
+  },
+  {
+    "id": "54",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/54.webp"
+  },
+  {
+    "id": "55",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/55.webp"
+  },
+  {
+    "id": "56",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/56.webp"
+  },
+  {
+    "id": "57",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/57.webp"
+  },
+  {
+    "id": "58",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/58.webp"
+  },
+   {
+    "id": "59",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/59.webp"
+  },
+    {
+    "id": "60",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/60.webp"
+  },
+    {
+    "id": "61",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/61.webp"
+  },
+    {
+    "id": "62",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/62.webp"
+  },
+    {
+    "id": "63",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/63.webp"
+  },
+    {
+    "id": "64",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/64.webp"
+  },
+    {
+    "id": "65",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/65.webp"
+  },
+    {
+    "id": "66",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/66.webp"
+  },
+    {
+    "id": "67",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/67.webp"
+  },
+    {
+    "id": "68",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/68.webp"
+  },
+   {
+    "id": "69",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/69.webp"
+  },
+   {
+    "id": "70",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/70.webp"
+  },
+   {
+    "id": "71",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/71.webp"
+   },
+   {
+    "id": "72",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/72.webp"
+   },
+   {
+    "id": "73",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/73.webp" 
+   },
+   {
+    "id": "74",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/74.webp"
+  },
+   {
+    "id": "75",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/75.webp"
+  },
+   {
+    "id": "76",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/76.webp"
+  },
+   {
+    "id": "77",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/77.webp"
+  },
+   {
+    "id": "78",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/78.webp"
+  },
+   {
+    "id": "79",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/79.webp"
+  },
+   {
+    "id": "80",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/80.webp"
+  },
+   {
+    "id": "81",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/81.webp"
+  },
+   {
+    "id": "82",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/82.webp"
+  },
+   {
+    "id": "83",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/83.webp"
+  },
+   {
+    "id": "84",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/84.webp"
+  },
+   {
+    "id": "85",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/85.webp"
+  },
+   {
+    "id": "86",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/86.webp"
+  },
+   {
+    "id": "87",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/87.webp"
+  },
+   {
+    "id": "88",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/88webp"
+  },
+   {
+    "id": "89",
+    "name": "HELLO KITTY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kitty@main/images/89.webp"
+  },
+   {
+    "id": "90",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250828120639_edddc8a38f108e76f241d461761c7bc3-600.jpg"
+  },
+   {
+    "id": "91",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/b02fbccd3e6d0e2f5581048426b40346-600.jpg"
+  },
+   {
+    "id": "92",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/12374-1-600.png"
+  },
+   {
+    "id": "93",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260812/19a1b71ab0633fa05d636e39473c4279_thumb_w800.webp"
+  },
+   {
+    "id": "94",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250828120108_9681ba27a9cf4fe257631cdf2c8f89c9-600.jpg"
+  },
+   {
+    "id": "95",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250903210329_bfc7cdcb231df2c3a2c4aeca0605d607-600.jpg"
+  },
+   {
+    "id": "96",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/4dbbc9e8d3e75dd35bff00a3cae3ce60_thumb_w800.webp"
+  },
+   {
+    "id": "97",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/4dbbc9e8d3e75dd35bff00a3cae3ce60_thumb_w800.webp"
+  },
+   {
+    "id": "98",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828170146_55d3e6f0558495d8432388511ec8434f-600.jpg"
+  },
+   {
+    "id": "99",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/b3ca5c28490b6cd9c45bf661413fe21d_thumb_w800.webp"
+  },
+   {
+    "id": "100",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250903210338_056875df8e93fdc665512b93a838f966-600.jpg"
+  },
+   {
+    "id": "101",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/11d33a41f2ecaaac9f49de9d27512a05-600.png"
+  },
+   {
+    "id": "102",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250828120619_7e7e9d2edb42ed28843dd4eaa9a5a1d3-600.jpg"
+  },
+   {
+    "id": "103",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828204756_e168c20e176de9241a9ae30c661b1484-600.jpg"
+  },
+   {
+    "id": "104",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828211053_02ad1e025456b1b5c9c0f83f9b94661c-600.jpg"
+  },
+   {
+    "id": "105",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260810/43e84303da5e30a8e50273ca1463ce3f_thumb_w800.webp"
+  },
+   {
+    "id": "106",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250903204639_9d489299ab2744579e6ab33332d9e31c-600.jpg"
+  },
+   {
+    "id": "107",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260810/78569b511acb71d39a75856f49e67f17_thumb_w800.webp"
+  },
+   {
+    "id": "108",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/412996-600.png"
+  },
+   {
+    "id": "109",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/a6f249414b3ff8ad66e12407e8f2a2df_thumb_w800.webp"
+  },
+   {
+    "id": "110",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260811/455e2a00756a7c55cc1e2cc2eff39e16_thumb_w800.webp"
+  },
+   {
+    "id": "111",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/66-600.png"
+  },
+   {
+    "id": "112",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260810/b7d0bf64292add03e8ceba526e53325d_thumb_w800.webp"
+  },
+   {
+    "id": "113",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/fce99c6ec433f9a9ade5f555236d838b-600.jpg"
+  },
+   {
+    "id": "114",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828170211_657cf65e4e72052d8c9faaab056019c5-600.jpg"
+  },
+   {
+    "id": "115",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828204744_aec6aa947359c2559d27696850caf7c1-600.jpg"
+  },
+   {
+    "id": "116",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/00a5b2aa0aae75aca037c683b487ce32-600.png"
+  },
+   {
+    "id": "117",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/c455074524101e4cbca79a8ec4b2e919_thumb_w800.webp"
+  },
+   {
+    "id": "118",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260820/c455074524101e4cbca79a8ec4b2e919_thumb_w800.webp"
+  },
+   {
+    "id": "119",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/role/20250828211024_4459e59baedecc4e00c2350d36fea833-600.jpg"
+  },
+   {
+    "id": "120",
+    "name": "CHIIKAWA",
+    "isNew": true,
+    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/1040g2sg31jj0vm56j6205ohqs7i412hotqi3udo-600.jpg"
+  },
+  {
+  "privacy_policy_url": "https://redskyapps.netlify.app/",
+  "rate_app_url": "https://play.google.com/store/apps/details?id=com.kuromi.wallpaper"
+  }
+]
